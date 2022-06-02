@@ -1,2 +1,2 @@
 # siralama
-tekrardan bilişim garajı'ndan bakarak yaptığım bir çalışma.
+tekrardan bilişim garajı'ndan bakarak yaptığım bir çalışma
